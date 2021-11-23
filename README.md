@@ -9,7 +9,7 @@
 
 ## I'm a Software Engineer, Startup Advisor, Entrepreneur and appreciate Architecture and Interior & Furniture Design.
 
-- 🖥 I am currently working as an Engineering Manager (Growth) at TaskRabbit.
+- 🖥 I am currently working as a Developer Relations Engineer at Google.
 - 🌱 I am currently learning carpentry, woodwork and blockchain technologies.
 - 💎 I do Open Source sometimes and consult startups on engineering and marketing.
 - 👀 You can view my personal projects here: [VideoDonut][videodonut], [PepperMenu][peppermenu] and [HyperSamples][hypersamples]!
